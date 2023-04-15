@@ -14,8 +14,8 @@
 
 | Numero    | Nome              | Ano  |
 | --------- | ----------------- | ---- |
-| 140221101 | João Quissenguele | 3º   |
-| 130221040 | Izilda Kossy      | 3º   |
+| 200600485 | Danilson Sanches  | 3º   |
+
 
 **Docentes** 
 
