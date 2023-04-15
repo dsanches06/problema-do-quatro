@@ -1,0 +1,1110 @@
+
+
+---------------------------------- Gerado em "21/12/2020 10:22:10" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) (PRETA QUADRADA ALTA CHEIA) (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: BFS 
+       Profundidade do Nó: 2 
+       Custo Uniforme: 0
+       Nos Gerados: 3
+       Fator de Ramificacao: 0.625005
+       Penetrância: 3.1999743
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:22:48" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA REDONDA BAIXA OCA) (PRETA QUADRADA ALTA OCA) (BRANCA QUADRADA ALTA CHEIA)) 
+    ((BRANCA REDONDA ALTA OCA) 0 (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((PRETA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (BRANCA QUADRADA BAIXA OCA) 0) 
+    ((PRETA QUADRADA BAIXA OCA) 0 (BRANCA QUADRADA BAIXA CHEIA) 0) 
+
+    (BRANCA REDONDA BAIXA OCA) 
+    (PRETA REDONDA BAIXA CHEIA) 
+    (PRETA REDONDA ALTA OCA) 
+    (PRETA QUADRADA ALTA CHEIA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA REDONDA BAIXA OCA) (PRETA QUADRADA ALTA OCA) (BRANCA QUADRADA ALTA CHEIA)) 
+    ((BRANCA REDONDA ALTA OCA) (BRANCA REDONDA BAIXA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((PRETA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (BRANCA QUADRADA BAIXA OCA) (PRETA REDONDA ALTA OCA)) 
+    ((PRETA QUADRADA BAIXA OCA) (BRANCA REDONDA BAIXA CHEIA) (BRANCA QUADRADA BAIXA CHEIA) (PRETA QUADRADA ALTA CHEIA)) 
+
+    (PRETA REDONDA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: A* 
+       Profundidade do Nó: 4 
+       Heuristica: 1
+       Custo Uniforme: 0
+       Nos Gerados: 9
+       Fator de Ramificacao: 0.625005
+       Penetrância: 6.3999486
+       Tempo em Segundos: 1
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:23:30" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) (PRETA QUADRADA ALTA CHEIA) (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: BFS 
+       Profundidade do Nó: 2 
+       Custo Uniforme: 0
+       Nos Gerados: 3
+       Fator de Ramificacao: 0.625005
+       Penetrância: 3.1999743
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:25:45" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) (PRETA QUADRADA ALTA CHEIA) (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: BFS 
+       Profundidade do Nó: 2 
+       Custo Uniforme: 0
+       Nos Gerados: 3
+       Fator de Ramificacao: 0.625005
+       Penetrância: 3.1999743
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:28:06" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) (PRETA QUADRADA ALTA CHEIA) (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: BFS 
+       Profundidade do Nó: 2 
+       Custo Uniforme: 0
+       Nos Gerados: 3
+       Fator de Ramificacao: 0.625005
+       Penetrância: 3.1999743
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:29:15" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) (PRETA QUADRADA ALTA CHEIA) (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: BFS 
+       Profundidade do Nó: 2 
+       Custo Uniforme: 0
+       Nos Gerados: 3
+       Fator de Ramificacao: 0.625005
+       Penetrância: 3.1999743
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:29:37" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((BRANCA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) (BRANCA REDONDA BAIXA CHEIA)) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+
+     --- RESULTADOS ---
+       Algoritmo: A* 
+       Profundidade do Nó: 4 
+       Heuristica: 1
+       Custo Uniforme: 0
+       Nos Gerados: 14
+       Fator de Ramificacao: 0.750005
+       Penetrância: 5.3332977
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:32:22" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) (PRETA QUADRADA ALTA CHEIA) (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: BFS 
+       Profundidade do Nó: 2 
+       Custo Uniforme: 0
+       Nos Gerados: 3
+       Fator de Ramificacao: 0.625005
+       Penetrância: 3.1999743
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:34:35" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) (PRETA QUADRADA ALTA CHEIA) (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: BFS 
+       Profundidade do Nó: 2 
+       Custo Uniforme: 0
+       Nos Gerados: 3
+       Fator de Ramificacao: 0.625005
+       Penetrância: 3.1999743
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:36:59" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) (PRETA QUADRADA ALTA CHEIA) (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: BFS 
+       Profundidade do Nó: 2 
+       Custo Uniforme: 0
+       Nos Gerados: 3
+       Fator de Ramificacao: 0.625005
+       Penetrância: 3.1999743
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:40:59" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) (PRETA QUADRADA ALTA CHEIA) (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: BFS 
+       Profundidade do Nó: 2 
+       Custo Uniforme: 0
+       Nos Gerados: 3
+       Fator de Ramificacao: 0.625005
+       Penetrância: 3.1999743
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:41:09" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((BRANCA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) (BRANCA REDONDA BAIXA CHEIA)) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+
+     --- RESULTADOS ---
+       Algoritmo: A* 
+       Profundidade do Nó: 4 
+       Heuristica: 1
+       Custo Uniforme: 0
+       Nos Gerados: 14
+       Fator de Ramificacao: 0.750005
+       Penetrância: 5.3332977
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:41:19" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((BRANCA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) (BRANCA REDONDA BAIXA CHEIA)) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+
+     --- RESULTADOS ---
+       Algoritmo: A* 
+       Profundidade do Nó: 4 
+       Heuristica: 1
+       Custo Uniforme: 0
+       Nos Gerados: 14
+       Fator de Ramificacao: 0.750005
+       Penetrância: 5.3332977
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:42:16" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((BRANCA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) (BRANCA REDONDA BAIXA CHEIA)) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+
+     --- RESULTADOS ---
+       Algoritmo: A* 
+       Profundidade do Nó: 4 
+       Heuristica: 1
+       Custo Uniforme: 0
+       Nos Gerados: 14
+       Fator de Ramificacao: 0.750005
+       Penetrância: 5.3332977
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:42:51" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((BRANCA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) (BRANCA REDONDA BAIXA CHEIA)) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+
+     --- RESULTADOS ---
+       Algoritmo: A* 
+       Profundidade do Nó: 4 
+       Heuristica: 1
+       Custo Uniforme: 0
+       Nos Gerados: 14
+       Fator de Ramificacao: 0.750005
+       Penetrância: 5.3332977
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:46:25" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((BRANCA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) (BRANCA REDONDA BAIXA CHEIA)) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+
+     --- RESULTADOS ---
+       Algoritmo: A* 
+       Profundidade do Nó: 4 
+       Heuristica: 1
+       Custo Uniforme: 0
+       Nos Gerados: 14
+       Fator de Ramificacao: 0.750005
+       Penetrância: 5.3332977
+       Tempo em Segundos: 1
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:46:44" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((BRANCA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) (BRANCA REDONDA BAIXA CHEIA)) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+
+     --- RESULTADOS ---
+       Algoritmo: A* 
+       Profundidade do Nó: 4 
+       Heuristica: 1
+       Custo Uniforme: 0
+       Nos Gerados: 14
+       Fator de Ramificacao: 0.750005
+       Penetrância: 5.3332977
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:49:22" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((BRANCA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) (BRANCA REDONDA BAIXA CHEIA)) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+
+     --- RESULTADOS ---
+       Algoritmo: A* 
+       Profundidade do Nó: 4 
+       Heuristica: 1
+       Custo Uniforme: 0
+       Nos Gerados: 14
+       Fator de Ramificacao: 0.750005
+       Penetrância: 5.3332977
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:49:31" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((BRANCA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) (BRANCA REDONDA BAIXA CHEIA)) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+
+     --- RESULTADOS ---
+       Algoritmo: A* 
+       Profundidade do Nó: 4 
+       Heuristica: 2
+       Custo Uniforme: 2
+       Nos Gerados: 14
+       Fator de Ramificacao: 0.750005
+       Penetrância: 5.3332977
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 10:52:24" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((BRANCA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) (BRANCA REDONDA BAIXA CHEIA)) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+
+     --- RESULTADOS ---
+       Algoritmo: A* 
+       Profundidade do Nó: 4 
+       Heuristica: 1
+       Custo Heuristica: 0
+       Custo Uniforme: 0
+       Nos Gerados: 14
+       Fator de Ramificacao: 0.750005
+       Penetrância: 5.3332977
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "21/12/2020 12:46:40" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA REDONDA BAIXA OCA) (PRETA QUADRADA ALTA OCA) (BRANCA QUADRADA ALTA CHEIA)) 
+    ((BRANCA REDONDA ALTA OCA) 0 (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((PRETA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (BRANCA QUADRADA BAIXA OCA) 0) 
+    ((PRETA QUADRADA BAIXA OCA) 0 (BRANCA QUADRADA BAIXA CHEIA) 0) 
+
+    (BRANCA REDONDA BAIXA OCA) 
+    (PRETA REDONDA BAIXA CHEIA) 
+    (PRETA REDONDA ALTA OCA) 
+    (PRETA QUADRADA ALTA CHEIA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA REDONDA BAIXA OCA) (PRETA QUADRADA ALTA OCA) (BRANCA QUADRADA ALTA CHEIA)) 
+    ((BRANCA REDONDA ALTA OCA) (BRANCA REDONDA BAIXA OCA) (BRANCA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA)) 
+    ((PRETA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (BRANCA QUADRADA BAIXA OCA) 0) 
+    ((PRETA QUADRADA BAIXA OCA) 0 (BRANCA QUADRADA BAIXA CHEIA) 0) 
+
+    (PRETA REDONDA ALTA OCA) 
+    (PRETA QUADRADA ALTA CHEIA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: DFS 
+       Profundidade do Nó: 2 
+       Profundidade Maxima: 1
+       Custo Uniforme: 0
+       Nos Gerados: 42
+       Fator de Ramificacao: 2.500005
+       Penetrância: 0.7999984
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "27/01/2021 21:12:12" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) (PRETA QUADRADA ALTA CHEIA) (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: BFS 
+       Profundidade do Nó: 2 
+       Custo Uniforme: 0
+       Nos Gerados: 3
+       Fator de Ramificacao: 0.625005
+       Penetrância: 3.1999743
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "26/02/2021 00:00:29" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) (PRETA QUADRADA ALTA CHEIA) (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: BFS 
+       Profundidade do Nó: 2 
+       Custo Uniforme: 0
+       Nos Gerados: 3
+       Fator de Ramificacao: 0.625005
+       Penetrância: 3.1999743
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "26/02/2021 00:25:11" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) 0 (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA QUADRADA BAIXA CHEIA) (PRETA QUADRADA ALTA CHEIA) (PRETA QUADRADA ALTA OCA)) 
+    ((BRANCA REDONDA ALTA OCA) (PRETA REDONDA ALTA OCA) (BRANCA REDONDA ALTA CHEIA) 0) 
+    (0 (PRETA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA) 0) 
+    ((BRANCA REDONDA BAIXA OCA) (BRANCA QUADRADA ALTA CHEIA) (PRETA REDONDA BAIXA OCA) (BRANCA QUADRADA BAIXA CHEIA)) 
+
+    (PRETA QUADRADA BAIXA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (BRANCA QUADRADA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: DFS 
+       Profundidade do Nó: 2 
+       Profundidade Maxima: 1
+       Custo Uniforme: 0
+       Nos Gerados: 17
+       Fator de Ramificacao: 1.500005
+       Penetrância: 1.3333289
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "26/02/2021 00:25:52" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA REDONDA BAIXA OCA) (PRETA QUADRADA ALTA OCA) (BRANCA QUADRADA ALTA CHEIA)) 
+    ((BRANCA REDONDA ALTA OCA) 0 (BRANCA REDONDA ALTA CHEIA) 0) 
+    ((PRETA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (BRANCA QUADRADA BAIXA OCA) 0) 
+    ((PRETA QUADRADA BAIXA OCA) 0 (BRANCA QUADRADA BAIXA CHEIA) 0) 
+
+    (BRANCA REDONDA BAIXA OCA) 
+    (PRETA REDONDA BAIXA CHEIA) 
+    (PRETA REDONDA ALTA OCA) 
+    (PRETA QUADRADA ALTA CHEIA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA ALTA OCA) (PRETA REDONDA BAIXA OCA) (PRETA QUADRADA ALTA OCA) (BRANCA QUADRADA ALTA CHEIA)) 
+    ((BRANCA REDONDA ALTA OCA) (BRANCA REDONDA BAIXA OCA) (BRANCA REDONDA ALTA CHEIA) (PRETA REDONDA BAIXA CHEIA)) 
+    ((PRETA QUADRADA BAIXA CHEIA) (PRETA REDONDA ALTA CHEIA) (BRANCA QUADRADA BAIXA OCA) 0) 
+    ((PRETA QUADRADA BAIXA OCA) 0 (BRANCA QUADRADA BAIXA CHEIA) 0) 
+
+    (PRETA REDONDA ALTA OCA) 
+    (PRETA QUADRADA ALTA CHEIA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+
+     --- RESULTADOS ---
+       Algoritmo: DFS 
+       Profundidade do Nó: 2 
+       Profundidade Maxima: 1
+       Custo Uniforme: 0
+       Nos Gerados: 42
+       Fator de Ramificacao: 2.500005
+       Penetrância: 0.7999984
+       Tempo em Segundos: 0
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
+
+---------------------------------- Gerado em "26/02/2021 00:37:34" ------------------------------------------------
+
+     +===========================+
+     |    ESTATISTICAS GERAIS    |
+     +===========================+
+
+     --- TABULEIRO INICIAL ---
+
+    ((BRANCA QUADRADA BAIXA CHEIA) (BRANCA REDONDA ALTA CHEIA) (PRETA REDONDA ALTA CHEIA) (PRETA QUADRADA BAIXA OCA)) 
+    (0 0 0 0) 
+    (0 0 0 0) 
+    (0 0 0 0) 
+
+    (BRANCA QUADRADA ALTA CHEIA) 
+    (BRANCA QUADRADA BAIXA OCA) 
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA ALTA OCA) 
+    (PRETA QUADRADA BAIXA CHEIA) 
+    (BRANCA REDONDA BAIXA OCA) 
+    (BRANCA REDONDA ALTA OCA) 
+    (BRANCA REDONDA BAIXA CHEIA) 
+    (PRETA REDONDA ALTA OCA) 
+    (PRETA REDONDA BAIXA CHEIA) 
+
+     --- TABULEIRO SOLUÇÃO ---
+
+    ((BRANCA QUADRADA BAIXA CHEIA) (BRANCA REDONDA ALTA CHEIA) (PRETA REDONDA ALTA CHEIA) (PRETA QUADRADA BAIXA OCA)) 
+    (0 0 0 0) 
+    (0 0 0 0) 
+    ((BRANCA REDONDA ALTA OCA) (BRANCA REDONDA BAIXA CHEIA) (PRETA REDONDA ALTA OCA) (PRETA REDONDA BAIXA CHEIA)) 
+
+    (BRANCA QUADRADA ALTA CHEIA) 
+    (BRANCA QUADRADA BAIXA OCA) 
+    (PRETA QUADRADA ALTA CHEIA) 
+    (PRETA QUADRADA ALTA OCA) 
+    (PRETA QUADRADA BAIXA CHEIA) 
+    (BRANCA REDONDA BAIXA OCA) 
+
+     --- RESULTADOS ---
+       Algoritmo: A* 
+       Profundidade do Nó: 4 
+       Heuristica: 2
+       Custo Heuristica: 6
+       Custo Uniforme: 6
+       Nos Gerados: 68
+       Fator de Ramificacao: 1.000005
+       Penetrância: 3.99998
+       Tempo em Segundos: 2
+
+     +===========================+
+     |     FIM DA ESTATISTICA    |
+     +===========================+
